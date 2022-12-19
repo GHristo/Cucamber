@@ -14,3 +14,4 @@ Feature: Register functionality on nopcommerce webpage
       | Hristo    | Gagachovski | hristo@iwec.com.mk  |   123456 |         1234567 | unsuccessfully |
       | Hristo    | Gagachovski |                     |   123456 |          123456 | unsuccessfully |
       | Hristo    | Gagachovski | hristo1@iwec.com.mk |   123456 |          123456 | successfully   |
+      | Hristo    | Gagachovski | hristo2@iwec.com.mk |   123456 |          123456 | successfully   |
