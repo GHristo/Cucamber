@@ -9,7 +9,8 @@ Feature: Search store
 
     Examples: 
       | item      | status       |
-      | AD_CS4_PH | successfuly   |
+      | AD_CS4_PH | successfuly  |
       | Patiki    | unsuccessful |
       | Levi's    | successful   |
       | Farmerki  | unsuccessful |
+      | Farmerki2  | unsuccessful |
